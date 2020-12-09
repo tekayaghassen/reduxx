@@ -10,7 +10,7 @@ const devTools = window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_
 const Compose = compose(devTools)
 
 const mySotre = createStore(Reducer, Compose)
-
+// Ghassen maya3rach yestamel github
 
 const App = () => {
   return (
